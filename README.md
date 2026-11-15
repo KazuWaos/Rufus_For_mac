@@ -1,4 +1,4 @@
-#Rufus for Mac
+# Rufus for Mac
 
 A Rufus-style interface for creating bootable USB drives on macOS, written as a single Python file using Tkinter.
 
